@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 public class WebTest {
     WebDriver driver;
-    String name = "Программист";
+    String name = "DEVELOPER";
 
     @Before
     public void init() {
